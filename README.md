@@ -13,7 +13,7 @@ hardened against side-channel and fault injection attacks.
 What drives me is the place where mathematics, hardware and security meet:
 turning a standard into code that is fast, small and hard to break.
 
-<img src="assets/pipeline.svg" width="100%" alt="Cryptographic algorithms routed into a chip with a pipelined core">
+<img src="pipeline.svg" width="100%" alt="Cryptographic algorithms routed into a chip with a pipelined core">
 
 ## Contact
 
