@@ -1,5 +1,3 @@
-![banner](assets/banner.png)
-
 # Ksawery
 
 **Embedded Security Engineer**
@@ -15,6 +13,4 @@ turning a standard into code that is fast, small and hard to break.
 
 <img src="pipeline.svg" width="100%" alt="Cryptographic algorithms routed into a chip with a pipelined core">
 
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/ksawery-mozdzynski/)
+<a href="https://www.linkedin.com/in/ksawery-mozdzynski/"><img src="linkedin.svg" height="44" alt="LinkedIn"></a>
